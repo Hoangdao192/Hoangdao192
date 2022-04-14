@@ -1,5 +1,5 @@
 [![](https://visitcount.itsvg.in/api?id=hanzomaster&icon=5&color=12)](https://visitcount.itsvg.in)
-# Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, my name is Thinh a.k.a Hanzo
+# Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, my name is Hoang Dao
 
 - 👨‍🎓 I am a student at [UET-VNU](https://uet.vnu.edu.vn/).  
 - 👨🏻 I'm currently learning new things and I would love to engage in any project
