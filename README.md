@@ -3,7 +3,7 @@
 
 - 👨‍🎓 I am a student at [UET-VNU](https://uet.vnu.edu.vn/).  
 - 👨🏻 I'm currently learning new things and I would love to engage in any project
-- I'm working at Viettel AI as an Intern Software Engineer
+- I'm working at Viettel AI as a Software Engineer
 - 📫 You can reach me through:
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/hoangdaonguyendang)
